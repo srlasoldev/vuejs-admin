@@ -1,0 +1,498 @@
+{
+  "Items": [
+    {
+      "ID": "ea9d6968-3116-4508-b088-0a1276c35c32",
+      "Threads": {
+        "51c5dd66-e837-48a3-8296-1084526bb891": {
+          "Fields": {
+            "34092d1a-2b9f-4a16-a91c-3cdc7a439ab5": {
+              "ID": "34092d1a-2b9f-4a16-a91c-3cdc7a439ab5",
+              "Name": "Last Name",
+              "Position": 2,
+              "Type": "",
+              "Values": [
+                "Kaiser"
+              ]
+            },
+            "825b51fc-cb6b-48b2-bd46-db9fee04671c": {
+              "ID": "825b51fc-cb6b-48b2-bd46-db9fee04671c",
+              "Name": "Email",
+              "Position": 3,
+              "Type": "",
+              "Values": [
+                "j.kaiser@invalid.com"
+              ]
+            },
+            "f08899aa-acaf-42f9-825b-4bc6500dea55": {
+              "ID": "f08899aa-acaf-42f9-825b-4bc6500dea55",
+              "Name": "First Name",
+              "Position": 1,
+              "Type": "",
+              "Values": [
+                "Janosch"
+              ]
+            }
+          },
+          "Name": "Contact"
+        },
+        "e9579616-cc86-49b1-8c93-6bc655303b9a": {
+          "Fields": {
+            "139c8fdb-c1f1-4776-8f5d-da4d45d44b90": {
+              "ID": "139c8fdb-c1f1-4776-8f5d-da4d45d44b90",
+              "Name": "RSV-Nummer",
+              "Position": 0,
+              "Type": "",
+              "Values": [
+                "1235"
+              ]
+            },
+            "40e695da-afff-474b-ba80-a1f38446e8a7": {
+              "ID": "40e695da-afff-474b-ba80-a1f38446e8a7",
+              "Name": "Rechtsschutzversicherung",
+              "Position": 0,
+              "Type": "",
+              "Values": [
+                "test"
+              ]
+            },
+            "490e5931-1e88-4e2b-b597-91cd5d157f7c": {
+              "ID": "490e5931-1e88-4e2b-b597-91cd5d157f7c",
+              "Name": "IBAN",
+              "Position": 0,
+              "Type": "",
+              "Values": [
+                "DE02120300000000101111"
+              ]
+            },
+            "5c0b0b1d-41ee-4d12-bbd3-4b997cfde3ee": {
+              "ID": "5c0b0b1d-41ee-4d12-bbd3-4b997cfde3ee",
+              "Name": "VIN",
+              "Position": 0,
+              "Type": "",
+              "Values": [
+                "12345"
+              ]
+            },
+            "c466e605-fcee-4a48-a0b9-9f6c02f873e2": {
+              "ID": "c466e605-fcee-4a48-a0b9-9f6c02f873e2",
+              "Name": "Datum der Anzahlungsrechnung",
+              "Position": 0,
+              "Type": "",
+              "Values": [
+                "12.04.2023"
+              ]
+            },
+            "cd3d6781-b2c9-4359-b740-466ac1fdced1": {
+              "ID": "cd3d6781-b2c9-4359-b740-466ac1fdced1",
+              "Name": "CRM Hash",
+              "Position": 0,
+              "Type": "",
+              "Values": [
+                "e158d3b4d45e4b1f9c552eaadb75a470c785b6029b62caf5bc662256df5da161"
+              ]
+            },
+            "dfa48692-9064-4d9d-9e32-16d1bd9a7515": {
+              "ID": "dfa48692-9064-4d9d-9e32-16d1bd9a7515",
+              "Name": "E-Mail (Verantwortlicher)",
+              "Position": 0,
+              "Type": "",
+              "Values": [
+                "j.kaiser@invalid.com"
+              ]
+            },
+            "e25fdee5-2ec2-43be-8948-1638ff43ae11": {
+              "ID": "e25fdee5-2ec2-43be-8948-1638ff43ae11",
+              "Name": "Datum Nachweis Absendung",
+              "Position": 0,
+              "Type": "",
+              "Values": [
+                "17.05.2023"
+              ]
+            },
+            "e85919c5-8de2-48c8-9d4b-85ef7cf441fa": {
+              "ID": "e85919c5-8de2-48c8-9d4b-85ef7cf441fa",
+              "Name": "Datum der Übergabe",
+              "Position": 0,
+              "Type": "",
+              "Values": [
+                "16.05.2023"
+              ]
+            },
+            "ed925208-eb95-4fc1-aba3-37c9c7349f33": {
+              "ID": "ed925208-eb95-4fc1-aba3-37c9c7349f33",
+              "Name": "Versicherungsnehmer",
+              "Position": 0,
+              "Type": "",
+              "Values": [
+                "jk"
+              ]
+            }
+          },
+          "Name": "Legacy"
+        }
+      }
+    },
+    {
+      "ID": "eeaa0974-e878-4658-836f-71e518a658ef",
+      "Threads": {
+        "51c5dd66-e837-48a3-8296-1084526bb891": {
+          "Fields": {
+            "34092d1a-2b9f-4a16-a91c-3cdc7a439ab5": {
+              "ID": "34092d1a-2b9f-4a16-a91c-3cdc7a439ab5",
+              "Name": "Last Name",
+              "Position": 2,
+              "Type": "",
+              "Values": [
+                "Weiss"
+              ]
+            },
+            "825b51fc-cb6b-48b2-bd46-db9fee04671c": {
+              "ID": "825b51fc-cb6b-48b2-bd46-db9fee04671c",
+              "Name": "Email",
+              "Position": 3,
+              "Type": "",
+              "Values": [
+                "s.weiss@invalid.com"
+              ]
+            },
+            "f08899aa-acaf-42f9-825b-4bc6500dea55": {
+              "ID": "f08899aa-acaf-42f9-825b-4bc6500dea55",
+              "Name": "First Name",
+              "Position": 1,
+              "Type": "",
+              "Values": [
+                "Stefanie"
+              ]
+            }
+          },
+          "Name": "Contact"
+        },
+        "e9579616-cc86-49b1-8c93-6bc655303b9a": {
+          "Fields": {
+            "139c8fdb-c1f1-4776-8f5d-da4d45d44b90": {
+              "ID": "139c8fdb-c1f1-4776-8f5d-da4d45d44b90",
+              "Name": "RSV-Nummer",
+              "Position": 0,
+              "Type": "",
+              "Values": [
+                "AZ4005"
+              ]
+            },
+            "40e695da-afff-474b-ba80-a1f38446e8a7": {
+              "ID": "40e695da-afff-474b-ba80-a1f38446e8a7",
+              "Name": "Rechtsschutzversicherung",
+              "Position": 0,
+              "Type": "",
+              "Values": [
+                "Die dubidubidu"
+              ]
+            },
+            "490e5931-1e88-4e2b-b597-91cd5d157f7c": {
+              "ID": "490e5931-1e88-4e2b-b597-91cd5d157f7c",
+              "Name": "IBAN",
+              "Position": 0,
+              "Type": "",
+              "Values": [
+                "DE04444400000000202051"
+              ]
+            },
+            "5c0b0b1d-41ee-4d12-bbd3-4b997cfde3ee": {
+              "ID": "5c0b0b1d-41ee-4d12-bbd3-4b997cfde3ee",
+              "Name": "VIN",
+              "Position": 0,
+              "Type": "",
+              "Values": [
+                "123456789"
+              ]
+            },
+            "cd3d6781-b2c9-4359-b740-466ac1fdced1": {
+              "ID": "cd3d6781-b2c9-4359-b740-466ac1fdced1",
+              "Name": "CRM Hash",
+              "Position": 0,
+              "Type": "",
+              "Values": [
+                "798a28fcc333e910ca32b622d66ee81add71e641cea118668c3176b495331763"
+              ]
+            },
+            "e25fdee5-2ec2-43be-8948-1638ff43ae11": {
+              "ID": "e25fdee5-2ec2-43be-8948-1638ff43ae11",
+              "Name": "Datum Nachweis Absendung",
+              "Position": 0,
+              "Type": "",
+              "Values": [
+                "14.06.2023"
+              ]
+            },
+            "e85919c5-8de2-48c8-9d4b-85ef7cf441fa": {
+              "ID": "e85919c5-8de2-48c8-9d4b-85ef7cf441fa",
+              "Name": "Datum der Übergabe",
+              "Position": 0,
+              "Type": "",
+              "Values": [
+                "13.06.2023"
+              ]
+            },
+            "ed925208-eb95-4fc1-aba3-37c9c7349f33": {
+              "ID": "ed925208-eb95-4fc1-aba3-37c9c7349f33",
+              "Name": "Versicherungsnehmer",
+              "Position": 0,
+              "Type": "",
+              "Values": [
+                "asdasd"
+              ]
+            }
+          },
+          "Name": "Legacy"
+        }
+      }
+    },
+    {
+      "ID": "a1510cd8-43e3-4341-ba2a-d88ebb7f6c79",
+      "Threads": {
+        "51c5dd66-e837-48a3-8296-1084526bb891": {
+          "Fields": {
+            "34092d1a-2b9f-4a16-a91c-3cdc7a439ab5": {
+              "ID": "34092d1a-2b9f-4a16-a91c-3cdc7a439ab5",
+              "Name": "Last Name",
+              "Position": 2,
+              "Type": "",
+              "Values": [
+                "Kaiser"
+              ]
+            },
+            "825b51fc-cb6b-48b2-bd46-db9fee04671c": {
+              "ID": "825b51fc-cb6b-48b2-bd46-db9fee04671c",
+              "Name": "Email",
+              "Position": 3,
+              "Type": "",
+              "Values": [
+                "j.kaiser@invalid.com"
+              ]
+            },
+            "f08899aa-acaf-42f9-825b-4bc6500dea55": {
+              "ID": "f08899aa-acaf-42f9-825b-4bc6500dea55",
+              "Name": "First Name",
+              "Position": 1,
+              "Type": "",
+              "Values": [
+                "Janosch"
+              ]
+            }
+          },
+          "Name": "Contact"
+        },
+        "e9579616-cc86-49b1-8c93-6bc655303b9a": {
+          "Fields": {
+            "139c8fdb-c1f1-4776-8f5d-da4d45d44b90": {
+              "ID": "139c8fdb-c1f1-4776-8f5d-da4d45d44b90",
+              "Name": "RSV-Nummer",
+              "Position": 0,
+              "Type": "",
+              "Values": [
+                "1235"
+              ]
+            },
+            "40e695da-afff-474b-ba80-a1f38446e8a7": {
+              "ID": "40e695da-afff-474b-ba80-a1f38446e8a7",
+              "Name": "Rechtsschutzversicherung",
+              "Position": 0,
+              "Type": "",
+              "Values": [
+                "test"
+              ]
+            },
+            "490e5931-1e88-4e2b-b597-91cd5d157f7c": {
+              "ID": "490e5931-1e88-4e2b-b597-91cd5d157f7c",
+              "Name": "IBAN",
+              "Position": 0,
+              "Type": "",
+              "Values": [
+                "DE02120300000000202051"
+              ]
+            },
+            "5c0b0b1d-41ee-4d12-bbd3-4b997cfde3ee": {
+              "ID": "5c0b0b1d-41ee-4d12-bbd3-4b997cfde3ee",
+              "Name": "VIN",
+              "Position": 0,
+              "Type": "",
+              "Values": [
+                "12345"
+              ]
+            },
+            "c466e605-fcee-4a48-a0b9-9f6c02f873e2": {
+              "ID": "c466e605-fcee-4a48-a0b9-9f6c02f873e2",
+              "Name": "Datum der Anzahlungsrechnung",
+              "Position": 0,
+              "Type": "",
+              "Values": [
+                "12.04.2023"
+              ]
+            },
+            "cd3d6781-b2c9-4359-b740-466ac1fdced1": {
+              "ID": "cd3d6781-b2c9-4359-b740-466ac1fdced1",
+              "Name": "CRM Hash",
+              "Position": 0,
+              "Type": "",
+              "Values": [
+                "e158d3b4d45e4baf9c552eaadb75a470c785b6029b62caf5bc662256df5da161"
+              ]
+            },
+            "dfa48692-9064-4d9d-9e32-16d1bd9a7515": {
+              "ID": "dfa48692-9064-4d9d-9e32-16d1bd9a7515",
+              "Name": "E-Mail (Verantwortlicher)",
+              "Position": 0,
+              "Type": "",
+              "Values": [
+                "j.kaiser@invalid.com"
+              ]
+            },
+            "e25fdee5-2ec2-43be-8948-1638ff43ae11": {
+              "ID": "e25fdee5-2ec2-43be-8948-1638ff43ae11",
+              "Name": "Datum Nachweis Absendung",
+              "Position": 0,
+              "Type": "",
+              "Values": [
+                "17.05.2023"
+              ]
+            },
+            "e85919c5-8de2-48c8-9d4b-85ef7cf441fa": {
+              "ID": "e85919c5-8de2-48c8-9d4b-85ef7cf441fa",
+              "Name": "Datum der Übergabe",
+              "Position": 0,
+              "Type": "",
+              "Values": [
+                "16.05.2023"
+              ]
+            },
+            "ed925208-eb95-4fc1-aba3-37c9c7349f33": {
+              "ID": "ed925208-eb95-4fc1-aba3-37c9c7349f33",
+              "Name": "Versicherungsnehmer",
+              "Position": 0,
+              "Type": "",
+              "Values": [
+                "jk"
+              ]
+            }
+          },
+          "Name": "Legacy"
+        }
+      }
+    },
+    {
+      "ID": "adc3fe05-3f92-4cef-bbb2-4b355b2ed252",
+      "Threads": {
+        "51c5dd66-e837-48a3-8296-1084526bb891": {
+          "Fields": {
+            "34092d1a-2b9f-4a16-a91c-3cdc7a439ab5": {
+              "ID": "34092d1a-2b9f-4a16-a91c-3cdc7a439ab5",
+              "Name": "Last Name",
+              "Position": 2,
+              "Type": "",
+              "Values": [
+                "Weiss"
+              ]
+            },
+            "825b51fc-cb6b-48b2-bd46-db9fee04671c": {
+              "ID": "825b51fc-cb6b-48b2-bd46-db9fee04671c",
+              "Name": "Email",
+              "Position": 3,
+              "Type": "",
+              "Values": [
+                "s.weiss@invalid.com"
+              ]
+            },
+            "f08899aa-acaf-42f9-825b-4bc6500dea55": {
+              "ID": "f08899aa-acaf-42f9-825b-4bc6500dea55",
+              "Name": "First Name",
+              "Position": 1,
+              "Type": "",
+              "Values": [
+                "Stefanie"
+              ]
+            }
+          },
+          "Name": "Contact"
+        },
+        "e9579616-cc86-49b1-8c93-6bc655303b9a": {
+          "Fields": {
+            "139c8fdb-c1f1-4776-8f5d-da4d45d44b90": {
+              "ID": "139c8fdb-c1f1-4776-8f5d-da4d45d44b90",
+              "Name": "RSV-Nummer",
+              "Position": 0,
+              "Type": "",
+              "Values": [
+                "AZ4005"
+              ]
+            },
+            "40e695da-afff-474b-ba80-a1f38446e8a7": {
+              "ID": "40e695da-afff-474b-ba80-a1f38446e8a7",
+              "Name": "Rechtsschutzversicherung",
+              "Position": 0,
+              "Type": "",
+              "Values": [
+                "Die dubidubidu"
+              ]
+            },
+            "490e5931-1e88-4e2b-b597-91cd5d157f7c": {
+              "ID": "490e5931-1e88-4e2b-b597-91cd5d157f7c",
+              "Name": "IBAN",
+              "Position": 0,
+              "Type": "",
+              "Values": [
+                "DE02120300000000202051"
+              ]
+            },
+            "5c0b0b1d-41ee-4d12-bbd3-4b997cfde3ee": {
+              "ID": "5c0b0b1d-41ee-4d12-bbd3-4b997cfde3ee",
+              "Name": "VIN",
+              "Position": 0,
+              "Type": "",
+              "Values": [
+                "123456789"
+              ]
+            },
+            "cd3d6781-b2c9-4359-b740-466ac1fdced1": {
+              "ID": "cd3d6781-b2c9-4359-b740-466ac1fdced1",
+              "Name": "CRM Hash",
+              "Position": 0,
+              "Type": "",
+              "Values": [
+                "798a28fcc667e910ca32b622d66ee81add71e641cea118668c3176b495331763"
+              ]
+            },
+            "e25fdee5-2ec2-43be-8948-1638ff43ae11": {
+              "ID": "e25fdee5-2ec2-43be-8948-1638ff43ae11",
+              "Name": "Datum Nachweis Absendung",
+              "Position": 0,
+              "Type": "",
+              "Values": [
+                "14.06.2023"
+              ]
+            },
+            "e85919c5-8de2-48c8-9d4b-85ef7cf441fa": {
+              "ID": "e85919c5-8de2-48c8-9d4b-85ef7cf441fa",
+              "Name": "Datum der Übergabe",
+              "Position": 0,
+              "Type": "",
+              "Values": [
+                "13.06.2023"
+              ]
+            },
+            "ed925208-eb95-4fc1-aba3-37c9c7349f33": {
+              "ID": "ed925208-eb95-4fc1-aba3-37c9c7349f33",
+              "Name": "Versicherungsnehmer",
+              "Position": 0,
+              "Type": "",
+              "Values": [
+                "asdasd"
+              ]
+            }
+          },
+          "Name": "Legacy"
+        }
+      }
+    },
+  ],
+  "Page": 1,
+  "Pages": 1
+}
